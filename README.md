@@ -17,7 +17,7 @@ A demo of the website can be seen at https://youtu.be/REzNZXrCMgE.
 Note that there is no audio it is just a quick video to show the site in action.
 
 ## Description
-This is a website made using Twitter BootStrap, I also used Sass and Less to develop style sheets both can be seen in the css folder. I have become a lot more confortable with Bootstrap after making this website.
+This is a website made using Twitter BootStrap, I also used Sass and Less to develop style sheets both can be seen in the css folder. I have become a lot more comfortable with Bootstrap after making this website.
 
 Features Implemented
 - Responsive design through Bootstrap grid layout
